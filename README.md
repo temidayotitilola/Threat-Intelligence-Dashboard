@@ -10,7 +10,7 @@ A simple Flask-based dashboard to check Indicators of Compromise (IOCs) against 
   - AlienVault OTX
 - Async requests using `httpx` for speed.
 - Clean Bootstrap 5 UI.
-![Dashboard Screenshot](ioc.png)
+![Dashboard Screenshot](ioc.PNG)
 
 ## Installation
  Clone the repo:
